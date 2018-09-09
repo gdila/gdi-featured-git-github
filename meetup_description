@@ -1,14 +1,20 @@
-Ever make changes that broke your code and forgot how your code worked before? Want to work with someone on a code project, but aren't sure who has the latest version of a particular file? Version control can solve these problems and more!
-Git is a popular version control application that can track your code changes and make it easier to collaboration on a project. Win win! This session will introduce the basics of version control, how to use Git to keep track of your changes to a project, and how to use GitHub (a hosting service) to collaborate with other developers.
-We will start the class by setting up your GitHub account and configuring git on your machine. We will then go through a lecture and exercises to help you get started with Git and GitHub!
+Interested in tech, but think it's not for you? Do you rarely see people who look like you coding? Afraid you missed your chance by not starting to code at 8?
+Then Girl Develop It is for you. This MeetUp is one of our featured introductory classes that will show you that coding is for everyone. Whether you are ready to start your own projects, improve your career or just want to communicate better with the coders in your life, we will help you with the basics.
+
+This 3 hour class is about how to get started with "Git" & "GitHub". Git is a tool to track versions of a project. GitHub is a site to host the project.
+It's a great resource that makes it easy to share, collaborate and review the history of your project.
+Most tech companies use it and it can even be used for non tech projects (like this presentation).
+
+We'll start with setting up an account on GitHub and the basics of using git. We'll then walk through interactive lessons.
+
 
 This workshop will cover:
-• the basic concepts of version control
-• git commands to track changes to a small project
-• how to use GitHub
-• the basics of collaborating on projects with other developers
+• What is version control?
+• Basic git commands
+• How to use GitHub for yourself
+• How to use GitHub to collaborate with others
 
-Want to try git for yourself? GitHub has a 15-minute tutorial you can go through on your own here (http://try.github.com/levels/1/challenges/1).
+If you want to get a headstart, GitHub has a 15-minute tutorial you can go through on your own here (http://try.github.com/levels/1/challenges/1).
 
 PREREQUISITES
 This class will not use actual code when committing to a GitHub repository, so no need to worry about knowing a particular programming language. A willingness to use the command line is necessary; we will be changing directories, listing directory contents, and using git from the command line throughout the class.
